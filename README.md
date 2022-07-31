@@ -1,1 +1,6 @@
-# practical-bash
+# Practical Bash
+
+Learning bash script with practical examples. 
+
+
+
